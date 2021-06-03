@@ -81,7 +81,6 @@ const sketch = p5 => {
             }
             startTiles.push(yArr);
         }
-        console.log(startTiles);
         drawTiles(true);
     };
 
